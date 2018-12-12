@@ -1,0 +1,11 @@
+C:\Users\Mateusz\Desktop\Programowanie sieciowe\base64\KonwerterBASE64\KonwerterBASE64\bin\Debug\netcoreapp2.1\KonwerterBase64.deps.json
+C:\Users\Mateusz\Desktop\Programowanie sieciowe\base64\KonwerterBASE64\KonwerterBASE64\bin\Debug\netcoreapp2.1\KonwerterBase64.runtimeconfig.json
+C:\Users\Mateusz\Desktop\Programowanie sieciowe\base64\KonwerterBASE64\KonwerterBASE64\bin\Debug\netcoreapp2.1\KonwerterBase64.runtimeconfig.dev.json
+C:\Users\Mateusz\Desktop\Programowanie sieciowe\base64\KonwerterBASE64\KonwerterBASE64\bin\Debug\netcoreapp2.1\KonwerterBase64.dll
+C:\Users\Mateusz\Desktop\Programowanie sieciowe\base64\KonwerterBASE64\KonwerterBASE64\bin\Debug\netcoreapp2.1\KonwerterBase64.pdb
+C:\Users\Mateusz\Desktop\Programowanie sieciowe\base64\KonwerterBASE64\KonwerterBASE64\obj\Debug\netcoreapp2.1\KonwerterBase64.csprojAssemblyReference.cache
+C:\Users\Mateusz\Desktop\Programowanie sieciowe\base64\KonwerterBASE64\KonwerterBASE64\obj\Debug\netcoreapp2.1\KonwerterBase64.csproj.CoreCompileInputs.cache
+C:\Users\Mateusz\Desktop\Programowanie sieciowe\base64\KonwerterBASE64\KonwerterBASE64\obj\Debug\netcoreapp2.1\KonwerterBase64.AssemblyInfoInputs.cache
+C:\Users\Mateusz\Desktop\Programowanie sieciowe\base64\KonwerterBASE64\KonwerterBASE64\obj\Debug\netcoreapp2.1\KonwerterBase64.AssemblyInfo.cs
+C:\Users\Mateusz\Desktop\Programowanie sieciowe\base64\KonwerterBASE64\KonwerterBASE64\obj\Debug\netcoreapp2.1\KonwerterBase64.dll
+C:\Users\Mateusz\Desktop\Programowanie sieciowe\base64\KonwerterBASE64\KonwerterBASE64\obj\Debug\netcoreapp2.1\KonwerterBase64.pdb
