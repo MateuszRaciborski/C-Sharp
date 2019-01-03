@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mateusz\\Desktop\\Programowanie sieciowe\\base64\\KonwerterBASE64\\KonwerterBASE64\\KonwerterBASE64.csproj",
-      "projectName": "KonwerterBASE64",
-      "projectPath": "C:\\Users\\Mateusz\\Desktop\\Programowanie sieciowe\\base64\\KonwerterBASE64\\KonwerterBASE64\\KonwerterBASE64.csproj",
+      "projectUniqueName": "C:\\Users\\Mateusz\\Desktop\\github\\C-Sharp\\KonwerterBASE64\\KonwerterBASE64\\KonwerterBase64.csproj",
+      "projectName": "KonwerterBase64",
+      "projectPath": "C:\\Users\\Mateusz\\Desktop\\github\\C-Sharp\\KonwerterBASE64\\KonwerterBASE64\\KonwerterBase64.csproj",
       "packagesPath": "C:\\Users\\Mateusz\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mateusz\\Desktop\\Programowanie sieciowe\\base64\\KonwerterBASE64\\KonwerterBASE64\\obj\\",
+      "outputPath": "C:\\Users\\Mateusz\\Desktop\\github\\C-Sharp\\KonwerterBASE64\\KonwerterBASE64\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
