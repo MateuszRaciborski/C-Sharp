@@ -190,11 +190,11 @@ namespace KonwerterBase64
         static void Main(string[] args)
         {
             //ŚCIEŻKI DO PLIKÓW
-            string sciezka_do_pliku_konwertowanego_do_base64 = (@"C:\Users\Mateusz\Desktop\Programowanie sieciowe\base64\KonwerterBASE64\dane_do_kodowania\tekst.txt");
-            string sciezka_do_zapisu_pliku_przekonwertowanego_do_base64 = (@"C:\Users\Mateusz\Desktop\Programowanie sieciowe\base64\KonwerterBASE64\dane_do_kodowania\zakodowany.b64");
+            string sciezka_do_pliku_konwertowanego_do_base64 = (@"dane_do_kodowania\tekst.txt");
+            string sciezka_do_zapisu_pliku_przekonwertowanego_do_base64 = (@"dane_do_kodowania\zakodowany.b64");
 
-            string sciezka_do_pliku_base64_konwertowanego_do_txt = (@"C:\Users\Mateusz\Desktop\Programowanie sieciowe\base64\KonwerterBASE64\dane_do_kodowania\zakodowany.b64");
-            string sciezka_do_zapisu_pliku_przekonwertowanego_do_txt = (@"C:\Users\Mateusz\Desktop\Programowanie sieciowe\base64\KonwerterBASE64\dane_do_kodowania\zdekodowany.txt");
+            string sciezka_do_pliku_base64_konwertowanego_do_txt = (@"dane_do_kodowania\zakodowany.b64");
+            string sciezka_do_zapisu_pliku_przekonwertowanego_do_txt = (@"dane_do_kodowania\zdekodowany.txt");
             //ŚCIEŻKI DO PLIKÓW
 
 
