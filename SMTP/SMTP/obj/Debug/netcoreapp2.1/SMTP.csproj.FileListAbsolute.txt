@@ -1,0 +1,11 @@
+C:\Users\Mateusz\Desktop\Programowanie sieciowe\smtp\SMTP\SMTP\obj\Debug\netcoreapp2.1\SMTP.csprojAssemblyReference.cache
+C:\Users\Mateusz\Desktop\Programowanie sieciowe\smtp\SMTP\SMTP\obj\Debug\netcoreapp2.1\SMTP.csproj.CoreCompileInputs.cache
+C:\Users\Mateusz\Desktop\Programowanie sieciowe\smtp\SMTP\SMTP\obj\Debug\netcoreapp2.1\SMTP.AssemblyInfoInputs.cache
+C:\Users\Mateusz\Desktop\Programowanie sieciowe\smtp\SMTP\SMTP\obj\Debug\netcoreapp2.1\SMTP.AssemblyInfo.cs
+C:\Users\Mateusz\Desktop\Programowanie sieciowe\smtp\SMTP\SMTP\bin\Debug\netcoreapp2.1\SMTP.deps.json
+C:\Users\Mateusz\Desktop\Programowanie sieciowe\smtp\SMTP\SMTP\bin\Debug\netcoreapp2.1\SMTP.runtimeconfig.json
+C:\Users\Mateusz\Desktop\Programowanie sieciowe\smtp\SMTP\SMTP\bin\Debug\netcoreapp2.1\SMTP.runtimeconfig.dev.json
+C:\Users\Mateusz\Desktop\Programowanie sieciowe\smtp\SMTP\SMTP\bin\Debug\netcoreapp2.1\SMTP.dll
+C:\Users\Mateusz\Desktop\Programowanie sieciowe\smtp\SMTP\SMTP\bin\Debug\netcoreapp2.1\SMTP.pdb
+C:\Users\Mateusz\Desktop\Programowanie sieciowe\smtp\SMTP\SMTP\obj\Debug\netcoreapp2.1\SMTP.dll
+C:\Users\Mateusz\Desktop\Programowanie sieciowe\smtp\SMTP\SMTP\obj\Debug\netcoreapp2.1\SMTP.pdb
