@@ -1,1 +1,0 @@
-base64 jest slaby bo nie koduje polskich znakow!
