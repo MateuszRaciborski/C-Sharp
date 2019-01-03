@@ -1,0 +1,14 @@
+C:\Users\Mateusz\Desktop\Programowanie C#\Zadanie 2\kod\Operacje_na_plikach\Operacje_na_plikach\bin\Debug\Operacje_na_plikach.exe.config
+C:\Users\Mateusz\Desktop\Programowanie C#\Zadanie 2\kod\Operacje_na_plikach\Operacje_na_plikach\bin\Debug\Operacje_na_plikach.exe
+C:\Users\Mateusz\Desktop\Programowanie C#\Zadanie 2\kod\Operacje_na_plikach\Operacje_na_plikach\bin\Debug\Operacje_na_plikach.pdb
+C:\Users\Mateusz\Desktop\Programowanie C#\Zadanie 2\kod\Operacje_na_plikach\Operacje_na_plikach\obj\Debug\Operacje_na_plikach.csprojAssemblyReference.cache
+C:\Users\Mateusz\Desktop\Programowanie C#\Zadanie 2\kod\Operacje_na_plikach\Operacje_na_plikach\obj\Debug\Operacje_na_plikach.csproj.CoreCompileInputs.cache
+C:\Users\Mateusz\Desktop\Programowanie C#\Zadanie 2\kod\Operacje_na_plikach\Operacje_na_plikach\obj\Debug\Operacje_na_plikach.exe
+C:\Users\Mateusz\Desktop\Programowanie C#\Zadanie 2\kod\Operacje_na_plikach\Operacje_na_plikach\obj\Debug\Operacje_na_plikach.pdb
+C:\Users\Mateusz\Desktop\Programowanie C#\Zadanie 2\Zadanie 2 Mateusz Raciborski\Operacje_na_plikach\Operacje_na_plikach\bin\Debug\Operacje_na_plikach.exe.config
+C:\Users\Mateusz\Desktop\Programowanie C#\Zadanie 2\Zadanie 2 Mateusz Raciborski\Operacje_na_plikach\Operacje_na_plikach\bin\Debug\Operacje_na_plikach.exe
+C:\Users\Mateusz\Desktop\Programowanie C#\Zadanie 2\Zadanie 2 Mateusz Raciborski\Operacje_na_plikach\Operacje_na_plikach\bin\Debug\Operacje_na_plikach.pdb
+C:\Users\Mateusz\Desktop\Programowanie C#\Zadanie 2\Zadanie 2 Mateusz Raciborski\Operacje_na_plikach\Operacje_na_plikach\obj\Debug\Operacje_na_plikach.csprojAssemblyReference.cache
+C:\Users\Mateusz\Desktop\Programowanie C#\Zadanie 2\Zadanie 2 Mateusz Raciborski\Operacje_na_plikach\Operacje_na_plikach\obj\Debug\Operacje_na_plikach.csproj.CoreCompileInputs.cache
+C:\Users\Mateusz\Desktop\Programowanie C#\Zadanie 2\Zadanie 2 Mateusz Raciborski\Operacje_na_plikach\Operacje_na_plikach\obj\Debug\Operacje_na_plikach.exe
+C:\Users\Mateusz\Desktop\Programowanie C#\Zadanie 2\Zadanie 2 Mateusz Raciborski\Operacje_na_plikach\Operacje_na_plikach\obj\Debug\Operacje_na_plikach.pdb

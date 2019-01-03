@@ -1,0 +1,2 @@
+﻿to jest se plik unicode
+i on jest fajny
