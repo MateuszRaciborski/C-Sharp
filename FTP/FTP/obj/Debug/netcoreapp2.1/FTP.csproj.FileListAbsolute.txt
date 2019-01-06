@@ -1,0 +1,11 @@
+C:\Users\Mateusz\Desktop\Programowanie sieciowe\ftp\FTP\FTP\bin\Debug\netcoreapp2.1\FTP.deps.json
+C:\Users\Mateusz\Desktop\Programowanie sieciowe\ftp\FTP\FTP\bin\Debug\netcoreapp2.1\FTP.runtimeconfig.json
+C:\Users\Mateusz\Desktop\Programowanie sieciowe\ftp\FTP\FTP\bin\Debug\netcoreapp2.1\FTP.runtimeconfig.dev.json
+C:\Users\Mateusz\Desktop\Programowanie sieciowe\ftp\FTP\FTP\bin\Debug\netcoreapp2.1\FTP.dll
+C:\Users\Mateusz\Desktop\Programowanie sieciowe\ftp\FTP\FTP\bin\Debug\netcoreapp2.1\FTP.pdb
+C:\Users\Mateusz\Desktop\Programowanie sieciowe\ftp\FTP\FTP\obj\Debug\netcoreapp2.1\FTP.csprojAssemblyReference.cache
+C:\Users\Mateusz\Desktop\Programowanie sieciowe\ftp\FTP\FTP\obj\Debug\netcoreapp2.1\FTP.csproj.CoreCompileInputs.cache
+C:\Users\Mateusz\Desktop\Programowanie sieciowe\ftp\FTP\FTP\obj\Debug\netcoreapp2.1\FTP.AssemblyInfoInputs.cache
+C:\Users\Mateusz\Desktop\Programowanie sieciowe\ftp\FTP\FTP\obj\Debug\netcoreapp2.1\FTP.AssemblyInfo.cs
+C:\Users\Mateusz\Desktop\Programowanie sieciowe\ftp\FTP\FTP\obj\Debug\netcoreapp2.1\FTP.dll
+C:\Users\Mateusz\Desktop\Programowanie sieciowe\ftp\FTP\FTP\obj\Debug\netcoreapp2.1\FTP.pdb
